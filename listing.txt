@@ -1,0 +1,14 @@
+total 40
+drwxr-xr-x  13 nik  staff  416 19 ноя 19:45 .
+drwxr-xr-x   7 nik  staff  224 19 ноя 19:46 ..
+-rw-r--r--   1 nik  staff   22 19 ноя 19:45 COMMIT_EDITMSG
+-rw-r--r--   1 nik  staff   26 19 ноя 19:37 HEAD
+drwxr-xr-x   2 nik  staff   64 19 ноя 19:01 branches
+-rw-r--r--   1 nik  staff  198 19 ноя 19:11 config
+-rw-r--r--   1 nik  staff   73 19 ноя 19:01 description
+drwxr-xr-x  12 nik  staff  384 19 ноя 19:01 hooks
+-rw-r--r--   1 nik  staff  289 19 ноя 19:45 index
+drwxr-xr-x   3 nik  staff   96 19 ноя 19:01 info
+drwxr-xr-x   4 nik  staff  128 19 ноя 19:18 logs
+drwxr-xr-x  13 nik  staff  416 19 ноя 19:45 objects
+drwxr-xr-x   4 nik  staff  128 19 ноя 19:01 refs
